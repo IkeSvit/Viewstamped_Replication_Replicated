@@ -1,0 +1,16 @@
+8/31/2026
+Viewstamped Replication Replicated
+Isaac Svitavsky
+
+I am going to replicate the paper:
+
+Viewstamped Replication Revisted
+Barbara Liskov and James Cowling
+
+My goals in doing so are to
+-keep journals to mark progression, organize thoughts and have fun
+-formalize specifications, because that's just fun, and ease implementation
+-test my implementation to maintain an accurate replication of the algorithm
+-create a working implementation of Viewstamped Replication Revisted (VRR)
+
+Today I will meet with Ethan Blanton to discuss what I have read so far and decide on some details; what language(s) I will use to implement, steps to approaching a project like this, and I'm sure I will think of more eventually. Maybe, just as an idea, I will end up doing these journals in Latex. That could be fun. For now I will go meet with him and soon begin my more formal journal on the paper itself.
