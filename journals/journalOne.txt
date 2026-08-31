@@ -1,0 +1,5 @@
+8/31/2026
+Viewstamped Replication Replicated
+Isaac Svitavsky
+
+Let's see if I know how to make git work.
